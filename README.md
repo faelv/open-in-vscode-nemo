@@ -8,3 +8,7 @@ Adds a menu item to Nemo's context menu that opens the selected folder, selected
 2. Close all running Nemo instances/windows
     - Alternativelly, execute ```killall nemo```
 3. Restart Nemo
+
+## Note
+
+If you need the extension to work with Python 3, use ```open-in-vscode-python3.py``` instead.
